@@ -10,7 +10,7 @@ import instruction from "./upscin.js";
 const execAsync = promisify(exec);
 
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyAcJvbyV8im8KSXp8uZk3bjLh666hXSojI",
+  apiKey: "API KEY",
 });
 
 // Initialize Google Cloud TTS client
